@@ -1,22 +1,9 @@
 {
   "imports": {
-    "langchain/hub": "npm:langchain@latest/hub",
-    "langchain/util/document": "npm:langchain@latest/util/document",
-    "langchain/output_parsers": "npm:langchain@latest/output_parsers",
-    "langchain/text_splitter": "npm:langchain@latest/text_splitter",
-    "langchain/vectorstores/memory": "npm:langchain@latest/vectorstores/memory",
-    "langchain/document_loaders/web/cheerio": "npm:langchain@latest/document_loaders/web/cheerio",
-    "langchain/agents": "npm:langchain@latest/agents",
+    "langchain/": "npm:/langchain@latest/",
     "@langchain/openai": "npm:@langchain/openai@latest",
-    "@langchain/community/tools/tavily_search": "npm:@langchain/community@latest/tools/tavily_search",
-    "@langchain/community/retrievers/tavily_search_api": "npm:@langchain/community@latest/retrievers/tavily_search_api",
-    "@langchain/core/prompts": "npm:@langchain/core@latest/prompts",
-    "@langchain/core/output_parsers": "npm:@langchain/core@latest/output_parsers",
-    "@langchain/core/runnables": "npm:@langchain/core@latest/runnables",
-    "cheerio": "npm:cheerio@latest",
-    "@langchain/community/vectorstores/faiss": "npm:@langchain/community@latest/vectorstores/hnswlib",
-    "langchain/chains/combine_documents": "npm:langchain@latest/chains/combine_documents",
-    "langchain/chains/retrieval": "npm:langchain@latest/chains/retrieval",
-    "langchain/retrievers/multi_query": "npm:langchain@latest/retrievers/multi_query"
+    "@langchain/community/": "npm:/@langchain/community@latest/",
+    "@langchain/core/": "npm:/@langchain/core@latest/",
+    "cheerio": "npm:cheerio@latest"
   }
 }
