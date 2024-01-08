@@ -27,9 +27,9 @@ Follow the instructions [here](https://docs.deno.com/runtime/manual/tools/jupyte
 ## Notebooks
 The following notebooks are provided:
 
-- Observability
-- Composition
-- Streaming
-- Output Parsing
-- Retrieval
-- [Agents]()
+- [Observability](observability.ipynb)
+- [Composition](/composability.ipynb)
+- [Streaming](/streaming.ipynb)
+- [Output Parsing](/output_parsers.ipynb)
+- [Retrieval](/retrieval.ipynb)
+- [Agents](/agents.ipynb)
