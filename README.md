@@ -4,6 +4,8 @@ Heavily inspired by [Harrison Chase's](https://twitter.com/hwchase17) [LangChain
 
 These notebooks show off different functionality associated with LangChain.js 0.1.0.
 
+To see the LangChain.js documentation, [click here](https://js.langchain.com/docs/get_started/introduction).
+
 ## Setup
 
 To setup, set required environment variables. We will use OpenAI for our language model, and Tavily for our search provider.
