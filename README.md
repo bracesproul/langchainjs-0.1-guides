@@ -21,11 +21,8 @@ export LANGCHAIN_API_KEY=...
 export LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
 ```
 
-Next, you'll need Deno installed, and their experimental Jupyter notebook support:
-
-```bash
-TODO: add instructions
-```
+Next, you'll need Deno installed, and their experimental Jupyter notebook support.
+Follow the instructions [here](https://docs.deno.com/runtime/manual/tools/jupyter).
 
 ## Notebooks
 The following notebooks are provided:
